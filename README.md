@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **agovindchavanb@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZbtqBtZ6afI5aufOhSzxv_f3RRcxS7-w/view?usp=share_link](https://drive.google.com/file/d/1ZbtqBtZ6afI5aufOhSzxv_f3RRcxS7-w/view?usp=share_link)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1ZbtqBtZ6afI5aufOhSzxv_f3RRcxS7-w/view?usp=share_link](https://drive.google.com/file/d/19NrRwDhCpozmj_lzxBadYKn6LNdyfRa1/view?usp=share_link))
 
 - ⚡ Fun fact **One thing I cannot live without is My Laptop & Smartphone.**
 
