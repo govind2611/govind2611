@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Weather Analytics Project**
+- 🔭 I’m currently working on **Crypto Tracker Project**
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/govind2611](https://github.com/govind2611)
 
-- 💬 Ask me about **DSA,JAVA,JAVASCRIPT,HTML,CSS**
+- 💬 Ask me about **DSA,JAVA,JAVASCRIPT,HTML,CSS, React JS**
 
 - 📫 How to reach me **agovindchavanb@gmail.com**
 
