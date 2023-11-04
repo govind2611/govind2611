@@ -1,18 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Govindsing Chavan</h1>
-<h3 align="center">I am Graduated student, Currently, studying Full Stack Web Development Course at AccioJob bootcamp</h3>
+<h3 align="center">I am a Full Stack MERN Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=govind2611&label=Profile%20views&color=0e75b6&style=flat" alt="govind2611" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Crypto Tracker Project**
+- 🔭 I’m currently working on **MY Portfolio**
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I have completed **Full Stack MERN Development** a
 
 - 👨‍💻 All of my projects are available at [https://github.com/govind2611](https://github.com/govind2611)
 
-- 💬 Ask me about **DSA,JAVA,JAVASCRIPT,HTML,CSS, React JS**
+- 💬 Ask me about **DSA,JAVA,JAVASCRIPT,HTML,CSS, React JS, Node JS, Expres JS, Mongo DB, MySQL**
 
 - 📫 How to reach me **agovindchavanb@gmail.com**
 
